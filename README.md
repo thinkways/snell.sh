@@ -1,11 +1,6 @@
 # Intro
 适用于64位Linux系统。运行完毕后屏幕显示psk，默认端口号8080，按照标准填入Surge即可。
 
-建议使用docker
-```
-https://github.com/primovist/snell-docker
-https://hub.docker.com/repository/docker/primovist/snell-docker
-```
 # How-to
 ## Install on Debian & Ubuntu
 
