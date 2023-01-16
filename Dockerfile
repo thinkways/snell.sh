@@ -1,6 +1,6 @@
 FROM frolvlad/alpine-glibc:latest
 ARG SNELL_URL=https://dl.nssurge.com/snell/snell-server-v4.0.0-linux-amd64.zip
-LABEL maintainer="primovist" \
+LABEL maintainer="thinkin" \
          org.label-schema.name="snell-server"
  ENV LANG=C.UTF-8
  ENV PORT=8080
