@@ -6,8 +6,8 @@
 https://github.com/primovist/snell-docker
 https://hub.docker.com/repository/docker/primovist/snell-docker
 ```
-# Install
-## Debian & Ubuntu
+# How-to
+## Install on Debian & Ubuntu
 
 ```
 wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/snell.sh
@@ -15,7 +15,7 @@ chmod +x snell.sh
 ./snell.sh
 ```
 
-## Centos & RedHat
+## Install on Centos & RedHat
 
 ```
 wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/snell.centos.sh
@@ -38,7 +38,7 @@ systemctl restart snell
 systemctl status snell
 ```
 
-## 卸载方法
+## Uninstall
 
 ```
 wget --no-check-certificate -O uninstall-snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/uninstall-snell.sh
