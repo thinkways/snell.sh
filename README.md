@@ -2,6 +2,12 @@
 适用于64位Linux系统。运行完毕后屏幕显示psk，默认端口号8080，按照标准填入Surge即可。
 
 # How-to
+
+## Setup in docker
+```
+docker pull ghcr.io/thinkways/snell.sh:sha256-7f0a24dee0c8376521f21eba121a9000b8a8bb43b1423aec0127fdffa5d83094.sig
+```
+
 ## Install on Debian & Ubuntu
 
 ```
